@@ -35,6 +35,7 @@ export default function Main() {
           </li>
         </ul>
       </div>
+      <section className='divider'></section>
       <h1>Roronoa Zoro</h1>
       <div>
         <img src={zoro} alt="foto zoro" />
@@ -57,6 +58,7 @@ export default function Main() {
           </li>
         </ul>
       </div>
+      <section className='divider'></section>
       <h1>Nami</h1>
       <div>
         <img src={nami} alt="foto nami" />
@@ -82,6 +84,7 @@ export default function Main() {
           </li>
         </ul>
       </div>
+      <section className='divider'></section>
       <h1>Usopp</h1>
       <div>
         <img src={ussop} alt="foto ussop" />
@@ -101,6 +104,7 @@ export default function Main() {
           </li>
         </ul>
       </div>
+      <section className='divider'></section>
       <h1>Sanji</h1>
       <div>
         <img src={sanji} alt="foto sanji" />
@@ -131,6 +135,7 @@ export default function Main() {
           </li>
         </ul>
       </div>
+      <section className='divider'></section>
       <h1>Tony Tony Chopper</h1>
       <div>
         <img src={tony} alt="foto tony" />
@@ -153,6 +158,7 @@ export default function Main() {
           </li>
         </ul>
       </div>
+      <section className='divider'></section>
       <h1>Por onde consigo assitir one piece?</h1>
       <div>
         <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjv6O-0g634AhU-rpUCHX32Cj8QFnoECFcQAQ&url=https%3A%2F%2Fwww.netflix.com%2Ftitle%2F80217863&authuser=1&usg=AOvVaw0Ul55ipbGAQGQES677eiS0" target="_blank">
