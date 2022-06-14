@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Joan&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'Joan', serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: #eff7f6;
+  
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
