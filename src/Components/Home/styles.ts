@@ -24,7 +24,7 @@ export const Container = styled.div`
     @media(min-width: 1024px){
       padding-left: 28rem;
     }
-    @media(min-width: 1920px){
+    @media(min-width: 1520px){
       padding-left: 55rem;
     }
   }
