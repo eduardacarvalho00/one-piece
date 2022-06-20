@@ -4,6 +4,7 @@ export const Container = styled.div`
   display: flex;
   align-items:center;
   flex-direction:column;
+  text-align: center;
   div{
     position: relative;
     height: 19rem;
@@ -11,23 +12,11 @@ export const Container = styled.div`
     background: #ff7b00;
     border-radius: 90%;
     bottom: 9.2rem;
-  }
-  img{
-    padding-top: 10rem;
-    padding-left: 6rem;
-    @media(min-width: 375px){
-      padding-left: 7.5rem;
-    }
-    @media(min-width: 414px){
-      padding-left: 9rem;
-    }
-    @media(min-width: 1024px){
-      padding-left: 28rem;
-    }
-    @media(min-width: 1520px){
-      padding-left: 55rem;
+    img{
+      padding-top: 10rem;
     }
   }
+  
   
   h1{
     margin: 0;
